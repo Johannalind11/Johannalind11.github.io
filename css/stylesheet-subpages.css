@@ -1,0 +1,58 @@
+h1{
+
+    color:black
+    text-align:left;
+    font-size: 11;
+    
+}
+h2{
+    color:rgb(40, 57, 150); 
+    text-align:left;
+    font-size: 11;
+
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:rgb(40, 57, 150);
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color:rgb(40, 57, 150);
+    color:white; 
+}
+
+.topnav a.active {
+  background-color:rgb(40, 57, 150);(141, 133, 133); 
+  color: white;
+}
+.content-area{
+    border-bottom: 3px solid
+    
+    }
+    
+.main-area{
+width: 50%;
+float: left;
+background:rgb(40, 57, 150);
+border-top: 3px solid rgb(40, 57, 150);
+border-bottom: 3px solid rgb(40, 57, 150);
+
+    
+    }
+    
+    .sidebar{
+    width: 50%; 
+    background-color: white;
+    color: black    
+    
+    }
